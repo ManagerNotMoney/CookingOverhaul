@@ -1,0 +1,6 @@
+name: CookingOverhaul
+version: '${version}'
+main: io.github.managernotmoney.CookingOverhaul
+description: Плагин добавляет реалистичную готовку в майнкрафт!
+author: ManagerMoney
+api-version: "1.21.11"
